@@ -42,8 +42,10 @@ void setup() {
 
 void loop() {
   dly = analogRead(analogPin);
+  refCnt = int(dly / 100);
+  //refCnt = 100;
   // Serial.print("입력 값:");
   //Serial.println(dly);
 
-  refCnt = int(dly / 100);
+
 }
