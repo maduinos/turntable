@@ -7,6 +7,7 @@ int stepperPin2 = 6;
 
 int dly = 100;
 int analogPin = A1;
+const int TIMER_INTERVAL_MS = 1;
 
 int cnt = 0;
 int refCnt = 0;
@@ -36,7 +37,7 @@ void setup() {
   digitalWrite(dirPin1, true);
   digitalWrite(dirPin2, true);
 
-  MsTimer2::set(1, motorctrl); // 500ms period
+  MsTimer2::set(TIMER_INTERVAL_MS, motorctrl);
   MsTimer2::start();
 }
 
