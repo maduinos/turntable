@@ -41,3 +41,10 @@ Stepper motors require appropriate drivers and power wiring. Do not connect moto
 ## License
 
 MIT License. See `LICENSE`.
+
+## Project Management
+
+- Changes: `CHANGELOG.md`
+- Support scope: `SUPPORT.md`
+- Contribution guide: `CONTRIBUTING.md`
+- Security reporting: `SECURITY.md`
