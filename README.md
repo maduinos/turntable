@@ -1,7 +1,5 @@
 # turntable
 
-[![Arduino Compile](https://github.com/maduinos/turntable/actions/workflows/arduino.yml/badge.svg)](https://github.com/maduinos/turntable/actions/workflows/arduino.yml)
-
 Maduinos의 개인 Arduino 스테퍼 모터 턴테이블 실험입니다.
 
 이 저장소는 취미/실험 프로젝트이며 Maduinos FPGA 비즈니스 포트폴리오에 포함되지 않습니다.
