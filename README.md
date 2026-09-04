@@ -1,3 +1,7 @@
+> 만든 사람: maduinos<br>
+> 문서 만든 날짜: 2026-05-30<br>
+> https://maduinos.blogspot.com/
+
 # turntable
 
 Maduinos의 개인 Arduino 스테퍼 모터 턴테이블 실험입니다.
